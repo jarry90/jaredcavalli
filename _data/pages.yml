@@ -1,0 +1,4 @@
+pages:
+  - {name: 'Home', url: '/'}
+  - {name: 'Contact', url: 'contact'}
+  - {name: 'Archive', url: 'archive'}
